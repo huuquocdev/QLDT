@@ -1,0 +1,71 @@
+﻿@page
+@model chinhsuatracuuModel
+@{
+    ViewData["Title"] = "chinhsuatracuu page";
+}
+
+<div class="text-center">
+    <h3 class="display-3">CỔNG TIẾP NHẬN XỬ LÝ THÔNG TIN ĐÀO TẠO</h3>
+    <p>Quay lại trang chủ Quản lý đào tạo <a href="https://docs.microsoft.com/aspnet/core">a</a>.</p>
+
+    <div>
+        <section>
+            <div class="container" style="width:auto">
+                <div class="tracuumssv">
+                <div class="text-wrapper-4">GỬI YÊU CẦU CHỈNH SỬA THÔNG TIN</div>
+                <br />
+                <div class="left">
+                    <div class="form">
+                        <div>
+
+                                <form>
+                                    <div class="row">
+                                        <div class="col-20">
+                                            <label for="fname">Số điện thoại</label>
+                                        </div>
+                                        <div class="col-70">
+                                            <input type="text" id="fname" name="firstname" placeholder="Nhập số điệ thoại">
+                                        </div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-20">
+                                            <label for="lname">Email</label>
+                                        </div>
+                                        <div class="col-70">
+                                            <input type="text" id="lname" name="lastname" placeholder="Nhập email">
+                                        </div>
+                                    </div>
+
+                                    <div class="row">
+                                        <div class="col-20">
+                                            <label for="subject">Nội dung</label>
+                                        </div>
+                                        <div class="col-70">
+                                            <textarea id="subject" name="subject" placeholder="Nhập nội dung yêu cầu...." style="height:100px"></textarea>
+                                        </div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-20">
+                                            <label for="subject">File minh chứng</label>
+                                        </div>
+                                        <div class="col-70">
+                                            <input style="display: inline;" type="file" id="file-upload" name="upfile" required />
+                                        </div>
+                                    </div>
+                                    
+
+                                </form>
+                            
+
+                            <br>
+                                <a class="nav-link text-dark" asp-area="" asp-page="/trangthaitracuu">
+                            <input class="tracuuinput2" type="submit" name="guiyeucau" value="Gửi yêu cầu">
+                                </a>
+                    </div>
+                </div>
+               
+            </div>
+           
+        </section>
+    </div>
+</div>

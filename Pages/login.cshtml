@@ -1,0 +1,32 @@
+﻿@page
+@model LoginModel
+@{
+    ViewData["Title"] = "Login page";
+}
+
+<div class="text-center">
+    @if (Request.Query["failed"].ToString() == "1")
+    {
+        <div role="alert" class="alert alert-danger">Thông tin đăng nhập không đúng</div>
+    }
+    <h1 class="display-4"></h1>
+    <div id="wrapper">
+         <form action="" method="post" id="form-login">
+            <h1 class="form-heading">Đăng nhập tài khoản</h1>
+            <div class="form-group">
+                <i class="far fa-user"></i>
+                <input type="text" name="username" class="form-input" placeholder="Tên đăng nhập">
+            </div>
+            <div class="form-group">
+                <i class="fas fa-key"></i>
+                <input type="password" name="password" class="form-input" placeholder="Mật khẩu">
+                <div id="eye">
+                    <i class="far fa-eye"></i>
+                </div>
+            </div>
+            <button type="submit" class="form-submit">Đăng nhập</button>
+            <button type="button" class="form-submit">Đăng nhập với Google</button>
+        </form>
+    </div>
+</div>
+ 

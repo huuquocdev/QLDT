@@ -1,0 +1,55 @@
+﻿@page
+@model chungnhantotnghiepModel
+@{
+    ViewData["Title"] = "chungnhantotnghiep page";
+}
+
+<div class="text-center">
+    <h3 class="display-3">CỔNG TIẾP NHẬN XỬ LÝ THÔNG TIN ĐÀO TẠO</h3>
+    <p>Quay lại trang chủ Quản lý đào tạo <a href="https://docs.microsoft.com/aspnet/core">a</a>.</p>
+
+    <div>
+        <section>
+            <div class="container" style="width:auto">
+                <div class="tracuumssv">
+                <div class="text-wrapper-4">GỬI YÊU XIN CẤP GIẤY CHỨNG NHẬN TỐT NGHIỆP TẠM THỜI</div>
+                <br />
+                <div class="left">
+                    <div class="form">
+                        <div>
+
+                                <form>
+                                    <div class="row">
+                                        <div class="col-20">
+                                            <label for="fname">Số điện thoại</label>
+                                        </div>
+                                        <div class="col-70">
+                                            <input type="text" id="fname" name="firstname" required placeholder="Nhập số điệ thoại">
+                                        </div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-20">
+                                            <label for="lname">Email</label>
+                                        </div>
+                                        <div class="col-70">
+                                            <input type="text" id="lname" name="lastname" required placeholder="Nhập email">
+                                        </div>
+                                    </div>
+                                    
+
+
+                                </form>
+                            
+
+                            <br>
+                                <a class="nav-link text-dark" asp-area="" asp-page="/trangthaicntn">
+                            <input class="tracuuinput2" type="submit" name="guiyeucau" value="Gửi yêu cầu">
+                            </a>
+                    </div>
+                </div>
+               
+            </div>
+           
+        </section>
+    </div>
+</div>

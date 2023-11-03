@@ -1,0 +1,109 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = HTQLDT
+build_property.RootNamespace = HTQLDT
+build_property.ProjectDir = C:\Users\DELL\source\repos\WebApplication4\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\DELL\source\repos\WebApplication4
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/DELL/source/repos/WebApplication4/Pages/chinhsuatracuu.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcY2hpbmhzdWF0cmFjdXUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DELL/source/repos/WebApplication4/Pages/chungnhantotnghiep.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcY2h1bmduaGFudG90bmdoaWVwLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DELL/source/repos/WebApplication4/Pages/dangkyhoanthi.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcZGFuZ2t5aG9hbnRoaS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DELL/source/repos/WebApplication4/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DELL/source/repos/WebApplication4/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DELL/source/repos/WebApplication4/Pages/ketquatracuu.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNca2V0cXVhdHJhY3V1LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DELL/source/repos/WebApplication4/Pages/khieunaisaidiem.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNca2hpZXVuYWlzYWlkaWVtLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DELL/source/repos/WebApplication4/Pages/login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcbG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DELL/source/repos/WebApplication4/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DELL/source/repos/WebApplication4/Pages/qldsyeucau.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNccWxkc3lldWNhdS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DELL/source/repos/WebApplication4/Pages/qltranghthaicntn.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNccWx0cmFuZ2h0aGFpY250bi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DELL/source/repos/WebApplication4/Pages/qltranghthaidiemthi.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNccWx0cmFuZ2h0aGFpZGllbXRoaS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DELL/source/repos/WebApplication4/Pages/qltranghthaihoanthi.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNccWx0cmFuZ2h0aGFpaG9hbnRoaS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DELL/source/repos/WebApplication4/Pages/qltranghthaitracuu.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNccWx0cmFuZ2h0aGFpdHJhY3V1LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DELL/source/repos/WebApplication4/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DELL/source/repos/WebApplication4/Pages/tranghthaicntn.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcdHJhbmdodGhhaWNudG4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DELL/source/repos/WebApplication4/Pages/tranghthaidiemthi.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcdHJhbmdodGhhaWRpZW10aGkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DELL/source/repos/WebApplication4/Pages/tranghthaihoanthi.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcdHJhbmdodGhhaWhvYW50aGkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DELL/source/repos/WebApplication4/Pages/tranghthaitracuu.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcdHJhbmdodGhhaXRyYWN1dS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DELL/source/repos/WebApplication4/Pages/yeucaucuatoi.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNceWV1Y2F1Y3VhdG9pLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DELL/source/repos/WebApplication4/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DELL/source/repos/WebApplication4/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DELL/source/repos/WebApplication4/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-njtnjgb86m

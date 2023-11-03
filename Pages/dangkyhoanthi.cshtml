@@ -1,0 +1,89 @@
+﻿@page
+@model dangkyhoanthiModel
+@{
+    ViewData["Title"] = "dangkyhoanthi page";
+}
+
+<div class="text-center">
+    <h3 class="display-3">CỔNG TIẾP NHẬN XỬ LÝ THÔNG TIN ĐÀO TẠO</h3>
+    <p>Quay lại trang chủ Quản lý đào tạo <a href="https://docs.microsoft.com/aspnet/core">a</a>.</p>
+
+    <div>
+        <section>
+            <div class="container" style="width:auto">
+                <div class="tracuumssv">
+                <div class="text-wrapper-4">GỬI YÊU CẦU HOÃN THI</div>
+                <br />
+                <div class="left">
+                    <div class="form">
+                        <div>
+
+                                <form>
+                                    <div class="row">
+                                        <div class="col-20">
+                                            <label for="fname">Số điện thoại</label>
+                                        </div>
+                                        <div class="col-70">
+                                            <input type="text" id="fname" name="firstname" required placeholder="Nhập số điệ thoại">
+                                        </div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-20">
+                                            <label for="lname">Email</label>
+                                        </div>
+                                        <div class="col-70">
+                                            <input type="text" id="lname" name="lastname" required placeholder="Nhập email">
+                                        </div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-20">
+                                            <label for="lname">Môn học</label>
+                                        </div>
+                                        <div class="col-70">
+                                            <input type="text" id="lname" name="lastname" required placeholder="Nhập tên môn học">
+                                        </div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-20">
+                                            <label for="lname">Mã môn học</label>
+                                        </div>
+                                        <div class="col-70">
+                                            <input type="text" id="lname" name="lastname" required placeholder="Mã môn học">
+                                        </div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-20">
+                                            <label for="subject">File minh chứng</label>
+                                        </div>
+                                        <div class="col-70">
+                                            <input style="display: inline; float: left; padding-top: 5px" type="file" id="file-upload" name="upfile" required />
+                                            
+                                        </div>
+                                       
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-20">
+                                            
+                                        </div>
+                                        <div class="col-70">
+     
+                                            <p style="text-align: left ">Đơn xin hoãn thi, giấy khám bác sĩ,......</p>
+                                        </div>
+
+                                    </div>
+
+                                </form>
+                            
+
+                            <br>
+                                <a class="nav-link text-dark" asp-area="" asp-page="/trangthaihoanthi">
+                            <input class="tracuuinput2" type="submit" name="guiyeucau" value="Gửi yêu cầu">
+                            </a>
+                    </div>
+                </div>
+               
+            </div>
+           
+        </section>
+    </div>
+</div>
