@@ -9,101 +9,101 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = WebApplication4
 build_property.RootNamespace = WebApplication4
-build_property.ProjectDir = C:\Users\DELL\source\repos\QLDT\
+build_property.ProjectDir = C:\Users\DELL\source\repos\WebApplication4\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\DELL\source\repos\QLDT
+build_property.MSBuildProjectDirectory = C:\Users\DELL\source\repos\WebApplication4
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/DELL/source/repos/QLDT/Pages/chinhsuatracuu.cshtml]
+[C:/Users/DELL/source/repos/WebApplication4/Pages/chinhsuatracuu.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcY2hpbmhzdWF0cmFjdXUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DELL/source/repos/QLDT/Pages/chungnhantotnghiep.cshtml]
+[C:/Users/DELL/source/repos/WebApplication4/Pages/chungnhantotnghiep.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcY2h1bmduaGFudG90bmdoaWVwLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DELL/source/repos/QLDT/Pages/dangkyhoanthi.cshtml]
+[C:/Users/DELL/source/repos/WebApplication4/Pages/dangkyhoanthi.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcZGFuZ2t5aG9hbnRoaS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DELL/source/repos/QLDT/Pages/Error.cshtml]
+[C:/Users/DELL/source/repos/WebApplication4/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DELL/source/repos/QLDT/Pages/Index.cshtml]
+[C:/Users/DELL/source/repos/WebApplication4/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DELL/source/repos/QLDT/Pages/ketquatracuu.cshtml]
+[C:/Users/DELL/source/repos/WebApplication4/Pages/ketquatracuu.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNca2V0cXVhdHJhY3V1LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DELL/source/repos/QLDT/Pages/khieunaisaidiem.cshtml]
+[C:/Users/DELL/source/repos/WebApplication4/Pages/khieunaisaidiem.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNca2hpZXVuYWlzYWlkaWVtLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DELL/source/repos/QLDT/Pages/login.cshtml]
+[C:/Users/DELL/source/repos/WebApplication4/Pages/login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcbG9naW4uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DELL/source/repos/QLDT/Pages/Privacy.cshtml]
+[C:/Users/DELL/source/repos/WebApplication4/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DELL/source/repos/QLDT/Pages/qldsyeucau.cshtml]
+[C:/Users/DELL/source/repos/WebApplication4/Pages/qldsyeucau.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNccWxkc3lldWNhdS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DELL/source/repos/QLDT/Pages/qltranghthaicntn.cshtml]
+[C:/Users/DELL/source/repos/WebApplication4/Pages/qltranghthaicntn.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNccWx0cmFuZ2h0aGFpY250bi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DELL/source/repos/QLDT/Pages/qltranghthaidiemthi.cshtml]
+[C:/Users/DELL/source/repos/WebApplication4/Pages/qltranghthaidiemthi.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNccWx0cmFuZ2h0aGFpZGllbXRoaS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DELL/source/repos/QLDT/Pages/qltranghthaihoanthi.cshtml]
+[C:/Users/DELL/source/repos/WebApplication4/Pages/qltranghthaihoanthi.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNccWx0cmFuZ2h0aGFpaG9hbnRoaS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DELL/source/repos/QLDT/Pages/qltranghthaitracuu.cshtml]
+[C:/Users/DELL/source/repos/WebApplication4/Pages/qltranghthaitracuu.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNccWx0cmFuZ2h0aGFpdHJhY3V1LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DELL/source/repos/QLDT/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/DELL/source/repos/WebApplication4/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DELL/source/repos/QLDT/Pages/trangthaicntn.cshtml]
+[C:/Users/DELL/source/repos/WebApplication4/Pages/trangthaicntn.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcdHJhbmd0aGFpY250bi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DELL/source/repos/QLDT/Pages/trangthaidiemthi.cshtml]
+[C:/Users/DELL/source/repos/WebApplication4/Pages/trangthaidiemthi.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcdHJhbmd0aGFpZGllbXRoaS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DELL/source/repos/QLDT/Pages/trangthaihoanthi.cshtml]
+[C:/Users/DELL/source/repos/WebApplication4/Pages/trangthaihoanthi.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcdHJhbmd0aGFpaG9hbnRoaS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DELL/source/repos/QLDT/Pages/trangthaitracuu.cshtml]
+[C:/Users/DELL/source/repos/WebApplication4/Pages/trangthaitracuu.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcdHJhbmd0aGFpdHJhY3V1LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DELL/source/repos/QLDT/Pages/yeucaucuatoi.cshtml]
+[C:/Users/DELL/source/repos/WebApplication4/Pages/yeucaucuatoi.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNceWV1Y2F1Y3VhdG9pLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DELL/source/repos/QLDT/Pages/_ViewImports.cshtml]
+[C:/Users/DELL/source/repos/WebApplication4/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DELL/source/repos/QLDT/Pages/_ViewStart.cshtml]
+[C:/Users/DELL/source/repos/WebApplication4/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DELL/source/repos/QLDT/Pages/Shared/_Layout.cshtml]
+[C:/Users/DELL/source/repos/WebApplication4/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-5c299uriia
